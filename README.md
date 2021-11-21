@@ -6,7 +6,7 @@ implement a lot of things that are inside the fastai and PyTorch libraries._".
 
 Building the ready made functions that you call over and over in the code in every machine learning model from scratch allows you to know the low level of maths and the operations 
 
-that are being done also , allows you to know how to fix the bugs or why the ready made functions code behave the way it behaves.
+that are being done also, allows you to know how to fix the bugs or why the ready made functions code behave the way it behaves.
 
 **The roles of the course:**
 
