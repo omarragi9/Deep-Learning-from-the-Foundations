@@ -1,7 +1,8 @@
 In this repository i'm trying to study the fastai course "Part 2 Deep Learning from the Foundations" [link!](https://course19.fast.ai/part2).
 
 This course is trying to build the fastai libirary again from scratch. I quote from the course's website "_This time, we’re not learning practical things that we will use right 
-away, but are learning foundations that we can build on. This is particularly important nowadays because this field is moving so fast. In this new course, we will learn to implement a lot of things that are inside the fastai and PyTorch libraries._ "
+away, but are learning foundations that we can build on. This is particularly important nowadays because this field is moving so fast. In this new course, we will learn to 
+implement a lot of things that are inside the fastai and PyTorch libraries._".
 
 Building the ready made functions that you call over and over in the code in every machine learning model from scratch allows you to know the low level of maths and the operations 
 
