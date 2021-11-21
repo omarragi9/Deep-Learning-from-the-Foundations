@@ -22,3 +22,13 @@ Here is the image that we use to clear the roles "we have to use only the down l
   <img src="images/2_foundations (1).jpg"/>
   <img src="images/5_cnn.jpg"/> 
 </p>
+
+Notes:
+
+1 - I didn't upload the data folder which contains the MNIST dataset which the course uses so you should be able to change the get_data function in _02_fully_connected notebook 
+
+and make the download = True to avoid errors.
+
+2 - The notebook that ends in skipped is actually the same notebook the course uses i downloaded it using git clone command because i will not code them now i want to finish the 
+
+course and fundamentals first and make sure i understand them and implement them right then i will go back and implement the skipped notebooks by my self.
