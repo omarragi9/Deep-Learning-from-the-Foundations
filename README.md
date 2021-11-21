@@ -23,7 +23,7 @@ Here is the image that we use to clear the roles "we have to use only the down l
   <img src="images/5_cnn.jpg"/> 
 </p>
 
-Notes:
+**Notes:**
 
 1 - I didn't upload the data folder which contains the MNIST dataset which the course uses so you should be able to change the get_data function in _02_fully_connected notebook 
 
