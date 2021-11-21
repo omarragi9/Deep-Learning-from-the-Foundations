@@ -19,6 +19,6 @@ accuracy and we will try to modify our code until we reach the ready made functi
 Here is the image that we use to clear the roles "we have to use only the down level libiraries to reach to the top level ones".
 
 <p float="left">
-  <img src="Images/2_foundations (1).jpg" width="500" height="400" />
+  <img src="Images/2_foundations (1).jpg" width="400" height="400" />
   <img src="Images/5_cnn.jpg" width="500" height="400" /> 
 </p>
