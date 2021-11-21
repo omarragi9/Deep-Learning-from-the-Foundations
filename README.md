@@ -10,9 +10,9 @@ that are being done also, allows you to know how to fix the bugs or why the read
 
 **The roles of the course:**
 
-We will have to build up our code from scratch even from matrix multplication then we will face the same issues ready made fuctions faced before that are related to speed and 
+We will have to build up our code from scratch even from matrix multiplication then we will face the same issues ready made functions faced before that are related to speed and
 
-accuracy and we will try to modify our code until we reach the ready made functions performace when we reach this point then we could use the ready made function.
+accuracy and we will try to modify our code until we reach the ready made functions performance when we reach this point then we could use the ready made function.
 
 Here is the image that we use to clear the roles "we have to use only the down level libiraries to reach to the top level ones".
 
